@@ -1,11 +1,12 @@
 {
   "collectionName": "components_elements_pictures",
   "info": {
-    "displayName": "pictures"
+    "displayName": "pictures",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "pictures": {
+    "picture": {
       "allowedTypes": [
         "images",
         "files",
@@ -13,7 +14,7 @@
         "audios"
       ],
       "type": "media",
-      "multiple": true
+      "multiple": false
     }
   }
 }

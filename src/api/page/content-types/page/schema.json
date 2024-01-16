@@ -44,7 +44,8 @@
         "sections.grid-list",
         "sections.title-with-picture",
         "sections.small-galery",
-        "sections.galery"
+        "sections.galery",
+        "sections.logo-clouds"
       ],
       "pluginOptions": {
         "i18n": {

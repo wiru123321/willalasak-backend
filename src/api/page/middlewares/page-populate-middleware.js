@@ -17,6 +17,14 @@ const populate = {
           },
         },
       },
+      logos: {
+        populate: {
+          fields: ["picture"],
+          picture: {
+            populate: true,
+          },
+        },
+      },
       buttons: {
         populate: true,
       },

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_elements_logo_clouds",
+  "info": {
+    "displayName": "Logo Clouds",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "logos": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.pictures"
+    }
+  }
+}
